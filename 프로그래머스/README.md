@@ -15,6 +15,7 @@
 - [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
 - [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
 - [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
+- [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 
 ## Level 2
 
