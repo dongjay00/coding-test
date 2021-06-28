@@ -14,6 +14,7 @@
 - [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 - [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
 - [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
+- [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
 
 ## Level 2
 
