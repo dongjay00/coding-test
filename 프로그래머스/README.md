@@ -24,7 +24,6 @@
 - [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 - [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)
-
 - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
-
 - [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
