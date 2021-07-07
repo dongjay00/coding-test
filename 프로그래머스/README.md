@@ -18,6 +18,7 @@
 - [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 - [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)
 - [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+- [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
 
 ## Level 2
 
