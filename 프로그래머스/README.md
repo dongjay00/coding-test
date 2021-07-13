@@ -22,6 +22,7 @@
 - [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
 - [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)
 - [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
+- [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
 
 ## Level 2
 
