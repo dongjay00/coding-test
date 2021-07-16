@@ -29,6 +29,7 @@
 - [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
 - [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)
 - [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
+- [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
 
 ## Level 2
 
