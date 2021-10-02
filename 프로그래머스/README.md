@@ -36,6 +36,7 @@
 - [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
 - [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501?language=javascript)
 - [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+- [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
 
 ## Level 2
 
