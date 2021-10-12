@@ -51,3 +51,4 @@
 - [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
 - [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)
 - [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)
+- [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
