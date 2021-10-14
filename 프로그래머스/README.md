@@ -41,6 +41,7 @@
 - [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
 - [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
 - [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
+- [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
 
 ## Level 2
 
