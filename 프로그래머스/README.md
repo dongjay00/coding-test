@@ -43,6 +43,7 @@
 - [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
+- [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
 
 ## Level 2
 
