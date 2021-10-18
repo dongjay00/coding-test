@@ -44,6 +44,7 @@
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
 - [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
+- [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
 
 ## Level 2
 
