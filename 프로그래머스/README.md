@@ -67,3 +67,4 @@
 
 - [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
 - [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)
+- [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
