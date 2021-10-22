@@ -62,6 +62,7 @@
 - [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)
 - [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+- [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
 
 ## Level 3
 
