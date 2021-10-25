@@ -48,6 +48,7 @@
 - [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+- [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 
 ## Level 2
 
