@@ -49,6 +49,7 @@
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+- [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 
 ## Level 2
 
