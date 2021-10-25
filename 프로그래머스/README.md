@@ -50,6 +50,7 @@
 - [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+- [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
 
 ## Level 2
 
