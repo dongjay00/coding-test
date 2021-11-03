@@ -68,6 +68,7 @@
 - [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
+- [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 
 ## Level 3
 
