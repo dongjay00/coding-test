@@ -52,6 +52,7 @@
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 - [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
 - [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
+- [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
 
 ## Level 2
 
