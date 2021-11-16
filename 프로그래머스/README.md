@@ -53,6 +53,7 @@
 - [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
 - [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
 - [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
+- [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)
 
 ## Level 2
 
