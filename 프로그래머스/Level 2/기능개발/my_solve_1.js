@@ -6,7 +6,7 @@ function solution(progresses, speeds) {
 
   let publish = 0;
   let term;
-  while (days.length > 0) {
+  while (days.length) {
     term = days[0];
     for (let j = 0; j < days.length; j++) {
       if (days[j] <= term) publish += 1;
