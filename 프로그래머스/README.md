@@ -73,6 +73,7 @@
 - [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
+- [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
 
 ## Level 3
 
