@@ -74,6 +74,7 @@
 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
 - [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 
 ## Level 3
 
