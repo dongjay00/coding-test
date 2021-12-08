@@ -9,6 +9,7 @@
 - [n진법으로 표기된 string을 10진법 숫자로 변환하기](https://programmers.co.kr/learn/courses/4008/lessons/13168)
 - [문자열 정렬하기](https://programmers.co.kr/learn/courses/4008/lessons/13326)
 - [알파벳 출력하기](https://programmers.co.kr/learn/courses/4008/lessons/13340)
+- [2차원 리스트 뒤집기](https://programmers.co.kr/learn/courses/4008/lessons/13339)
 
 ## Level 1
 
