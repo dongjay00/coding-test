@@ -2,6 +2,10 @@
 
 > 프로그래머스 사이트 문제 링크를 적어두었습니다.
 
+## [파이썬을 파이썬답게](https://programmers.co.kr/learn/courses/4008)
+
+- [수강 전에 이 문제를 풀어보세요.](https://programmers.co.kr/learn/courses/4008/lessons/13254)
+
 ## Level 1
 
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
