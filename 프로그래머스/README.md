@@ -11,6 +11,7 @@
 - [알파벳 출력하기](https://programmers.co.kr/learn/courses/4008/lessons/13340)
 - [2차원 리스트 뒤집기](https://programmers.co.kr/learn/courses/4008/lessons/13339)
 - [i번째 원소와 i+1번째 원소](https://programmers.co.kr/learn/courses/4008/lessons/72546)
+- [모든 멤버의 type 변환하기](https://programmers.co.kr/learn/courses/4008/lessons/13328)
 
 ## Level 1
 
