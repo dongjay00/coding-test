@@ -10,6 +10,7 @@
 - [문자열 정렬하기](https://programmers.co.kr/learn/courses/4008/lessons/13326)
 - [알파벳 출력하기](https://programmers.co.kr/learn/courses/4008/lessons/13340)
 - [2차원 리스트 뒤집기](https://programmers.co.kr/learn/courses/4008/lessons/13339)
+- [i번째 원소와 i+1번째 원소](https://programmers.co.kr/learn/courses/4008/lessons/72546)
 
 ## Level 1
 
