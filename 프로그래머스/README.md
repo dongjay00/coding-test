@@ -17,6 +17,7 @@
 - [삼각형 별찍기](https://programmers.co.kr/learn/courses/4008/lessons/13188)
 - [2차원 리스트를 1차원 리스트로 만들기](https://programmers.co.kr/learn/courses/4008/lessons/13189)
 - [순열과 조합](https://programmers.co.kr/learn/courses/4008/lessons/13347)
+- [가장 많이 등장하는 알파벳 찾기](https://programmers.co.kr/learn/courses/4008/lessons/13246)
 
 ## Level 1
 
