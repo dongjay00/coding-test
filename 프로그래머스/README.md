@@ -19,6 +19,7 @@
 - [순열과 조합](https://programmers.co.kr/learn/courses/4008/lessons/13347)
 - [가장 많이 등장하는 알파벳 찾기](https://programmers.co.kr/learn/courses/4008/lessons/13246)
 - [for문과 if문을 한번에](https://programmers.co.kr/learn/courses/4008/lessons/48463)
+- [flag OR else](https://programmers.co.kr/learn/courses/4008/lessons/66568)
 
 ## Level 1
 
