@@ -73,6 +73,7 @@
 - [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
 - [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
 - [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)
+- [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
 
 ## Level 2
 
